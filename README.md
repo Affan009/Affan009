@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=affan009" alt="affan009" /></a> </p>
 
-- 🔭 I’m currently working on **a TCP/IP Stack in C**
+- 🔭 I’m currently working on a **TCP/IP Stack in C**
 
-- 🌱 I’m currently learning **Systems Programming and High Performance Computing (Cuda)**
+- 🌱 I’m currently learning **Systems Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Affan009](https://github.com/Affan009)
 
